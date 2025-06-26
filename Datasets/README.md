@@ -1,7 +1,7 @@
 # 📁 Dataset Directory Structure for Rain Image Deraining
 
 For training and testing, your dataset folder structure should look like this:
-
+```
 Datasets/
 ├── train/
 │   └── Rain13K/
@@ -23,3 +23,4 @@ Datasets/
     └── Test2800/
         ├── input/      # Rainy images for testing
         └── target/
+```
