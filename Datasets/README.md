@@ -1,4 +1,4 @@
-# 📁 Dataset Directory Structure for Rain Image Deraining
+# 📁 Dataset Directory Structure 
 
 For training and testing, your dataset folder structure should look like this:
 ```
